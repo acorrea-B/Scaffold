@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> bc7c96e601a134b7634a480083dc7ddccc306b4a
-
 ## Badges
 
 [![Python application test with Github Actions](https://github.com/acorrea-B/Scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/acorrea-B/Scaffold/actions/workflows/main.yml)
@@ -12,7 +7,7 @@ On this repository, we gonna test GitHub Actions with python code
 ## Demo
 
 Insert gif or link to demo
-
+![alt text](https://github.com/acorrea-B/Scaffold/blob/main/.img/Grabaci%C3%B3n%20de%20pantalla%20desde%202023-01-24%2012-00-23%20(2).gif)
 
 ## Main code
 
