@@ -6,7 +6,7 @@ On this repository, we gonna test GitHub Actions with python code
 
 ## Demo
 
-Insert gif or link to demo
+
 ![alt text](https://github.com/acorrea-B/Scaffold/blob/main/.img/Grabaci%C3%B3n%20de%20pantalla%20desde%202023-01-24%2012-00-23%20(2).gif)
 
 ## Main code
