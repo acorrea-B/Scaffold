@@ -14,14 +14,14 @@ def teardown_function(function):
 
 
 ##un to see failed test
-def test_hello_add():
-    assert add(test_hello_add.x) == 12
+#def test_hello_add():
+    #assert add(test_hello_add.x) == 12
 
 def test_hello_subtract():
     assert subtract(test_hello_subtract.x) == 9
 
-#def test_hello_add():
-    #assert add(test_hello_add.x) == 11
+def test_hello_add():
+    assert add(test_hello_add.x) == 11
 
-#def test_hello_to_you():
-    #assert toyou(test_hello_to_you.x) == "hi 10"
+def test_hello_to_you():
+    assert toyou(test_hello_to_you.x) == "hi 10"
